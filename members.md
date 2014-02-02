@@ -60,6 +60,7 @@ Format:
 | Anbarasan Gangadaran | [anabarasan](https://github.com/anabarasan) | Experience in Python, Learning Java / Ruby, new to contributing to open source projects |
 | Andreas Varotsis | [crimsoneer](https://github.com/crimsoneer) |Python coder with bugger all experience anywhere.|
 | Andrew Pierce | [qcpw](https://github.com/qcpw) ||
+| Andrew Dal Cin | [adalcin] (https://github.com/adalcin) || New to open source. New comp sci graduate looking to get experience
 | Andrew Plassard | [aplassard](https://github.com/aplassard) ||
 | Andrew Salem | [gnomemage7](https://github.com/gnomemage7)||
 | Andrew Suppa | [antaios256](https://github.com/antaios256) ||
